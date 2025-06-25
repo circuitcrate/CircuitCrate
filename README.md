@@ -42,6 +42,7 @@ At **Circuit Crate**, we believe in transforming the future of learning by makin
 - 📞 WhatsApp: +91 93549 19851
 - 📧 Email: cratecircuit1@gmail.com
 - 🌐 [Instagram](https://www.instagram.com/circuit_crate_)
+- [Linkdn]([https://www.instagram.com/circuit_crate_](https://www.linkedin.com/in/circuit-crate-73b187371/))
 
 ---
 
