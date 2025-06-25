@@ -1,5 +1,3 @@
-
-
 # 👋 Welcome to Circuit Crate!
 
 **Empowering School Students through Hands-on Training in Electronics, IoT & Robotics**
@@ -31,7 +29,6 @@ At **Circuit Crate**, we believe in transforming the future of learning by makin
 
 ## 🔥 Highlights
 
-
 - Active collaborations with schools & ATAL Tinkering Labs
 - Cutting-edge kits and curriculum designed for real-world application
 
@@ -42,7 +39,8 @@ At **Circuit Crate**, we believe in transforming the future of learning by makin
 - 📞 WhatsApp: +91 93549 19851
 - 📧 Email: cratecircuit1@gmail.com
 - 🌐 [Instagram](https://www.instagram.com/circuit_crate_)
-- [Linkdn]([https://www.instagram.com/circuit_crate_](https://www.linkedin.com/in/circuit-crate-73b187371/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/circuit-crate-73b187371/)
+- ▶️ [YouTube](http://www.youtube.com/@CircuitCrate25)
 
 ---
 
